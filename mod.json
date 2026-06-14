@@ -1,0 +1,23 @@
+{
+	"geode": "5.7.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "blue-moon-studios.icon-destroyer",
+	"name": "ICON DESTROYER!",
+	"version": "v1.0.0",
+	"developer": "Blue Moon Studios",
+	"tags": [
+        "enchantcement",
+		"gameplay",
+		"customization",
+		"content"
+	],
+	"description": "CLICK CLICK CLICK CLICK",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	}
+}
