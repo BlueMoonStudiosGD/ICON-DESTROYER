@@ -1,16 +1,12 @@
 # ICON DESTROYER!
 
-Turn the main menu into a challenge.
+Do you want to destroy an icon? 
 
-Every death counts — <cr>literally</c>.
+Have fun with the main menu as a challenge! And see how many deaths you can rack up
 
-## Features
-- <cy>Kill Counter</c> — tracks how many times you’ve died
-- <co>Survival Timer</c> — starts on your first death
-- <cg>Progressive Speed</c> — game speed increases every 2 minutes
-- <cb>Dynamic Menus</c> — hides the default menu on death for immersion
+## Similar Mod/Idea
 
-## Notes
-- Speed resets when UI is hidden
-- Timer only runs after your first death
-- Designed for challenge runs & chaos gameplay
+The idea is very similar to [Icon Ninja](https://geode-sdk.org/mods/undefined0.icon_ninja) by undefined0.
+
+So if you like it, you might want to give it a try :) *(Many thanks to undefined0 for letting me post it here to avoid any issues)*\. 
+
