@@ -16,9 +16,6 @@
 		"customization",
 		"content"
 	],
-	"links": {
-		"source": "https://github.com/BlueMoonStudiosGD/ICON-DESTROYER"
-	},
 	"description": "CLICK CLICK CLICK CLICK",
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"

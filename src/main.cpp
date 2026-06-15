@@ -3,6 +3,16 @@
 
 using namespace geode::prelude;
 
+// For the Index team, I removed the odd code and rebuilt the mod by modifying a single class
+// So this time I did everything in main.cpp, I don't think 172 lines will bother anyone, including these comments
+// And while I was at it, I went to undefined0’s Icon Ninja repository to ask for permission since the ideas are “similar”
+// Even though he said there was no need, I’m still including it in my about.md
+// because I really appreciate his kindness and I have no problem doing so
+
+//Thanks for reading
+//If you want to reject the mod again for something that could be improved
+//I’d be happy if you could write it up in an issue, it would be greatly appreciated
+
 class $modify(MyMenuGameLayer, MenuGameLayer) {
 
     struct Fields {
